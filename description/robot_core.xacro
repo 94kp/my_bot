@@ -39,6 +39,7 @@
 			<geometry>
 				<box size="0.3 0.3 0.15" />
 			</geometry>
+			<material name="white" />
 		</visual>
 
 		<collision>
@@ -66,6 +67,7 @@
 			<geometry>
 				<cylinder radius="0.05" length="0.04" />
 			</geometry>
+			<material name="white" />
 		</visual>
 
 		<collision>
@@ -93,6 +95,7 @@
 			<geometry>
 				<cylinder radius="0.05" length="0.04" />
 			</geometry>
+			<material name="white" />
 		</visual>
 
 		<collision>
@@ -120,6 +123,7 @@
 			<geometry>
 				<sphere radius="0.05" />
 			</geometry>
+			<material name="black" />
 		</visual>
 		<collision>
 			<geometry>
