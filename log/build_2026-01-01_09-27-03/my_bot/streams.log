@@ -1,0 +1,10 @@
+[0.007s] Invoking command in '/home/karan/dev_ws/src/my_bot/build/my_bot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/karan/dev_ws/src/my_bot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/karan/dev_ws/src/my_bot/install/my_bot
+[0.379s] -- The C compiler identification is GNU 11.4.0
+[0.880s] -- The CXX compiler identification is GNU 11.4.0
+[1.309s] -- Detecting C compiler ABI info
+[1.476s] -- Detecting C compiler ABI info - done
+[1.480s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.482s] -- Detecting C compile features
+[1.483s] -- Detecting C compile features - done
+[1.485s] -- Detecting CXX compiler ABI info
+[1.568s] Invoked command in '/home/karan/dev_ws/src/my_bot/build/my_bot' returned '-2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/karan/dev_ws/src/my_bot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/karan/dev_ws/src/my_bot/install/my_bot
